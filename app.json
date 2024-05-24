@@ -10,5 +10,11 @@
         }
     },
     "repository": "https://github.com/malindunimsara/heroku-v2ray",
-    "stack": "container"
+    "stack": "container",
+    "formation": {
+        "vee2app": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
 }
