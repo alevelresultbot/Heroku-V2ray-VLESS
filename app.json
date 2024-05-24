@@ -9,7 +9,7 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/malindunimsara/heroku-v2ray",
+    "repository": "https://github.com/alevelresultbot/Heroku-V2ray-VLESS",
     "stack": "container",
     "formation": {
         "vee2app": {
